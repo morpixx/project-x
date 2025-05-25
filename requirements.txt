@@ -1,0 +1,8 @@
+aiogram
+tdlight
+ffmpeg-python
+forex-python
+emoji
+tinydb
+python-dotenv
+fastapi
